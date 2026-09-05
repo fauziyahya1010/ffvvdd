@@ -1,13 +1,12 @@
 {
-  "name": "discord-button-bot",
+  "name": "selfbot-button",
   "version": "1.0.0",
-  "description": "Bot Discord dengan tombol otomatis untuk Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^13.15.2",
     "dotenv": "^16.4.5"
   }
 }
